@@ -1,0 +1,39 @@
+.contact-nav {
+  font-size: 10px
+}
+
+.about-nav {
+  font-size: 10px
+}
+
+.portfolio-nav {
+  font-size: 10px
+}
+
+
+.contact-nav :active {
+font-size: 20px
+}
+
+.about-nav :active {
+font-size: 20px
+}
+
+.portfolio-nav :active {
+  font-size: 20px
+}
+
+
+.contact-nav :hover {
+    transform: scale(1.5);
+  }
+  
+  .about-nav :hover {
+    transform: scale(1.5);
+  }
+  
+  .portfolio-nav :hover {
+     transform: scale(1.5);
+  
+  }
+  
